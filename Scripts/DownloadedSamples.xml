@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadedSamples>
+  <ScriptSample Name="DiskSpd-a-robust-storage-6cd2f223" LastUpdated="12/14/2015" Link="https://gallery.technet.microsoft.com/DiskSpd-a-robust-storage-6cd2f223" Rating="4.5757575" Raters="33" Downloads="24530" Title="Diskspd Utility: A Robust Storage Testing Tool (superseding SQLIO)" Category="Storage" SubCategory="Files" Tags="Storage testing;  " Author="joshad" Summary="A feature-rich and versatile storage testing tool, Diskspd (version 2.0.15) combines robust and granular IO workload definition with flexible runtime and output options, creating an ideal tool for synthetic storage subsystem testing and validation." IsAllDownloaded="true">
+    <SamplePackages>
+      <SamplePackage LastUpdated="1/29/2016" DownloadLink="https://gallery.technet.microsoft.com/DiskSpd-a-robust-storage-6cd2f223/file/146048/1/Diskspd-v2.0.15.zip" FileName="Diskspd-v2.0.15.zip" FileNameWithoutExtension="Diskspd-v2.0.15" LocalPath="C:\Users\Colin\Documents\WindowsPowerShell\Scripts\DiskSpd-a-robust-storage-6cd2f223\Diskspd-v2.0.15" />
+    </SamplePackages>
+  </ScriptSample>
+</DownloadedSamples>
